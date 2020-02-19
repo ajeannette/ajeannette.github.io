@@ -25,12 +25,13 @@
 body, html {
   height: 100%;
   margin: 0;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'KozGoPr6N-Light', sans-serif;
   font-size: 12pt;
 }
 
 p {
     text-indent: 10px;
+    margin-bottom: 2px;
 }
 
 .topnav {
