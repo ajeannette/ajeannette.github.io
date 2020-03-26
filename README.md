@@ -1,4 +1,4 @@
-# A. Jeannette's Super Cute Website Development Playground
+# A. Jeannette's Github Playground
 
 Hello and welcome to my fun playground Github repository dedicated solely to practicing making super cute and pretty webpages!
 
