@@ -1,5 +1,5 @@
 .page-header {
-    background: url("images/mountainheader.jpeg");
+    background: url("images/aaron-burden-Qy-CBKUg_X8-unsplash.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -13,11 +13,12 @@
     top: 0;
     left: 0;
     padding-top: 58px;
+    border-bottom: 5px solid black;
+    margin-bottom: 50px;
 }
 
 .page-header > h1{
-    font: bold calc(1em + 2 * (100vw - 120px) / 100) 'Dancing Script', cursive,
-        fantasy;
+    font: calc(1em + 2 * (100vw - 120px) / 100) 'Rockwell', serif;
     margin: 2%;
     padding: 70px 0;
 }
@@ -27,10 +28,11 @@ body, html {
   margin: 0;
   font-family: 'KozGoPr6N-Light', sans-serif;
   font-size: 12pt;
+  background-color: #D3D3D3;
 }
 
 p {
-    text-indent: 10px;
+    text-indent: 50px;
     margin-bottom: 2px;
 }
 
@@ -49,17 +51,28 @@ p {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: arial, helvetica, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 17px;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
-  text-shadow: none;
+  background-color: #696969;
+  color: white;
+  text-shadow: 0 0 .5px #F5F5F5, 0 0 .5px #F5F5F5, 0 0 .5px #F5F5F5, 0 0 .5px #F5F5F5;
 }
 
 .topnav a.active {
-  background-color: #008080;
+  background-color: #556B2F;
   color: white;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: left;
+  padding: 20px;
 }
