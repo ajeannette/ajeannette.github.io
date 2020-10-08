@@ -21,6 +21,8 @@
     font: calc(1em + 2 * (100vw - 120px) / 100) 'Rockwell', serif;
     margin: 2%;
     padding: 70px 0;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 body, html {
@@ -28,7 +30,7 @@ body, html {
   margin: 0;
   font-family: 'KozGoPr6N-Light', sans-serif;
   font-size: 12pt;
-  background-color: #D3D3D3;
+  background-color: #DCDCDC;
 }
 
 p {
@@ -58,7 +60,7 @@ p {
 .topnav a:hover {
   background-color: #696969;
   color: white;
-  text-shadow: 0 0 .5px #F5F5F5, 0 0 .5px #F5F5F5, 0 0 .5px #F5F5F5, 0 0 .5px #F5F5F5;
+  text-shadow: 0 0 .5px #DCDCDC, 0 0 .5px #DCDCDC, 0 0 .5px #DCDCDC, 0 0 .5px #DCDCDC;
 }
 
 .topnav a.active {
