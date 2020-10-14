@@ -1,6 +1,6 @@
 # A. Jeannette's Github Playground
 
-Hello and welcome to my fun playground Github repository dedicated solely to practicing making super cute and pretty webpages!
+Hello and welcome to my fun playground Github repository dedicated solely to practicing making super cute and pretty webpages! Visit my main page at [](ajeannette.github.io).
 
 ## Goals:
 - Developing neat and fun webpage features that are, primarily, cute
